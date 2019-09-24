@@ -1,4 +1,11 @@
-print('Available operators: \n "+" division,\n "-" subtraction,\n "/" division,\n "*" multiplying,\n "mod" division with remainder,\n "pow" exponentiation \n "div" for integer division')
+print('Available operators: '
+      '\n "+" division,'
+      '\n "-" subtraction,'
+      '\n "/" division,'
+      '\n "*" multiplying,'
+      '\n "mod" division with remainder,'
+      '\n "pow" exponentiation '
+      '\n "div" for integer division')
 a = float(input('Enter your first number '))
 x = str(input('Enter operator '))
 b = float(input('Enter your second number '))
