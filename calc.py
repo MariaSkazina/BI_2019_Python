@@ -21,4 +21,3 @@ elif (x == 'div') and (b != 0):
     print(a // b)
 elif (x == 'div') and (b == 0):
     print('Деление на 0!')
-
