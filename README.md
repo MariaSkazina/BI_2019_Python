@@ -1,4 +1,4 @@
 Домашние задания по курсу Программирование на Python
 
 
-Задание 2. https://www.notion.so/Second-Homework-PEP-8-PR-d24a149704e342db89053a9c11348fd8
+Задание 3. https://www.notion.so/Third-Homework-Objects-Functions-Scopes-Collections-e25d074f6fe64605bf18855bca3472d9
