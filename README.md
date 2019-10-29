@@ -1,4 +1,4 @@
 Домашние задания по курсу Программирование на Python
 
 
-Задание 3. https://www.notion.so/Third-Homework-Objects-Functions-Scopes-Collections-e25d074f6fe64605bf18855bca3472d9
+Задание 4. https://www.notion.so/Fourth-homework-c8220c51024046ed9e4988e654bd5549
