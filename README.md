@@ -1,4 +1,4 @@
 Домашние задания по курсу Программирование на Python
 
 
-Задание 1. https://www.notion.so/First-Homework-Git-cc0d4abbd04245f2874110d1590dda7b
+Задание 2. https://www.notion.so/Second-Homework-PEP-8-PR-d24a149704e342db89053a9c11348fd8
