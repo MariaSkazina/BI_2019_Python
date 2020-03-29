@@ -1,0 +1,28 @@
+#1. Составить список из чисел от 1 до 1000, которые имеют в своём составе 7.
+x = [y for y in range(1, 1001) if '7' in str(y)]
+print(x)
+
+#2. Взять предложение Would it save you a lot of time if I just gave up and went mad now?
+#и сделать его же без гласных. up: можно оставить в виде списка слов и не собирать строку.
+sentence = "Would it save you a lot of time if I just gave up and went mad now?"
+vowels = ('o', 'u', 'i', 'a', 'e', 'y')
+print(''.join([x for x in sentence if x not in vowels]))
+
+#3. Для предложения The ships hung in the sky in much the same way that bricks don't
+#составить словарь, где слову соответствует его длина.
+sentence = ("The ships hung in the sky in much the same way that bricks don\'t")
+dictionary = {word: len(word) for word in sentence.split(" ")}
+print(dictionary)
+
+#5 Список всех чисел от 1 до 1000, не имеющих делителей среди чисел от 2 до 9.
+x = [
+    y for y in range(1, 1001)
+    if y % 2 != 0
+    if y % 3 != 0
+    if y % 5 != 0
+    if y % 7 != 0]
+print(x)
+
+
+
+
